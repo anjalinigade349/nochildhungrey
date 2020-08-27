@@ -18,7 +18,7 @@
         "phone" => $phone,
         "send_sms" => true,
 		"allow repeated payment"=>false,
-        "redirect_url" => "http://localhost:8080/thankyou.php"
+        "redirect_url" => "http://netlify.com/thankyou.php"
         //"webhook" =>
         ));
         //print_r($response);
