@@ -126,8 +126,9 @@ color:white;
 .bt2{
 	background-color:blue;
 	color:white;
+	width:
 	border-radius:25px;
-	font-size:22px;
+	font-size:20px;
 	font-weight:500;
 }
 .table{
@@ -192,7 +193,8 @@ button:hover{
   }
   
   .fa:hover {
-      opacity: 0.7;
+      background:black;
+	  color: white;
   }
   
   .fa-facebook {
