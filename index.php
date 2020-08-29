@@ -26,7 +26,7 @@
             
      <nav class="navbar navbar-expand-md navbar-light  fixed-top">
 
-<a class="navbar-brand text-warning">NO CHILD | HUNGRY</a>
+<a class="navbar-brand text-bold text-warning">NO CHILD | HUNGRY</a>
 
 <button type="button" class="navbar-toggler bg-light" data-toggle="collapse" data-target="#nav">
 
@@ -71,7 +71,7 @@
             </h2>
             <h1>JOIN OUR FAMILY BY <br>DONATING</h1>
             <a href="form.php">
-            <button class="btn btn-warning  btn-lg bt1">DONATE</button>
+            <button id="donate" class="btn btn-lg bt1">DONATE</button>
 			</a>
            
         </div>
@@ -163,7 +163,7 @@
     <h4 class="lastheading">
         DONATE for something good!</h2>
 		<a href="form.php">
-        <button class="btn btn-warning  btn-lg bt1">DONATE</button><br>
+        <button class="btn btn-lg bt1">DONATE</button><br>
 		</a>
 <a href="https://www.facebook.com/people/Anjali-Nigade/100022083271946" class="fa fa-facebook"></a>
 <a href="https://www.linkedin.com/in/anjalinigade349" class="fa fa-linkedin"></a>
