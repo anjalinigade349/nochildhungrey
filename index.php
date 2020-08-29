@@ -163,7 +163,7 @@
     <h4 class="lastheading">
         DONATE for something good!</h2>
 		<a href="form.php">
-        <button class="btn btn-lg bt1">DONATE</button><br>
+        <button class="btn btn-lg bg-dark">DONATE</button><br>
 		</a>
 <a href="https://www.facebook.com/people/Anjali-Nigade/100022083271946" class="fa fa-facebook"></a>
 <a href="https://www.linkedin.com/in/anjalinigade349" class="fa fa-linkedin"></a>
