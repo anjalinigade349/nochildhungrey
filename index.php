@@ -149,6 +149,7 @@
 		</a>
 <a href="https://www.facebook.com/people/Anjali-Nigade/100022083271946" class="fa fa-facebook"></a>
 <a href="https://www.linkedin.com/in/anjalinigade349" class="fa fa-linkedin"></a>
+	<a href="https://www.instagram.com/in/i_anjaliii___" class="fa fa-instagram"></a>
 
 </center>
 <h6 class="text-center text-warning">connect with us</h6>
