@@ -18,7 +18,7 @@
         "phone" => $phone,
         "send_sms" => true,
 		"allow repeated payment"=>false,
-        "redirect_url" => "http://netlify.com/thankyou.php"
+        "redirect_url" => "http://heroku.com/thankyou.php"
         //"webhook" =>
         ));
         //print_r($response);
