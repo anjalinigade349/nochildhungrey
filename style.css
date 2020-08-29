@@ -103,7 +103,9 @@ backgroud-color:cyan;
 .bt2{
 	background-color:cyan;
 	color:white;
-	width:
+	width:auto;
+	padding:5px;
+	margin:10px;
 	border-radius:25px;
 	font-size:20px;
 	font-weight:500;
