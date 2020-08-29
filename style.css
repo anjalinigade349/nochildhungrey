@@ -188,7 +188,11 @@ button:hover{
     background: #3B5998;
     color: white;
   }
-  
+  .fa-instagram
+{
+	background: #3B5998;
+	color:white;
+}
   .fa-linkedin {
     background: #55ACEE;
     color: white;
