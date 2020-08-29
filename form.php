@@ -52,7 +52,7 @@
 		<input type="number" name="amount" class="form-control" placeholder="donation amount" required>
 		</div>
 		<div class="form">
-		<input type="submit" name="submit" class="pbtn" value="Donate!" required>
+		<input type="submit" name="submit" class="bt1" value="Donate!" required>
 		</div>
 		</form>
 		</center>
