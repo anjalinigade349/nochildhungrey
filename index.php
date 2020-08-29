@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NO CHILD | HUNGREY</title>
+    <title>NO CHILD | HUNGRY</title>
     <link rel="stylesheet" type="text/css" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -36,7 +36,7 @@
       <div class="navbar">
 
 <div  class="topnav" id="myTopnav">
-<a href="#contact" class="toph1">NO CHILD | HUNGREY</a>
+<a href="#contact" class="toph1">NO CHILD | HUNGRY</a>
   <a href="#home" class="active">Home</a>
  <a href="#about">About</a>
   <a href="#contact">Contact</a>
@@ -50,7 +50,7 @@
         <main id="home">
         <div class="container text-center  headerset">
             <h2>
-            <span class="w3-tag"> NO CHILD HUNGREY</span>
+            <span class="w3-tag"> NO CHILD HUNGRY</span>
             </h2>
             <h1>JOIN OUR FAMILY BY <br>DONATING</h1>
             <a href="form.php">
@@ -77,7 +77,7 @@
         
             <p class="para2">
                 We are working for the betterment of our society and we want <br><span class="w3-tag">
-                    | NO ONE SLEEPS HUNGREY |</span>
+                    | NO ONE SLEEPS HUNGRY |</span>
             </p>
         
         
