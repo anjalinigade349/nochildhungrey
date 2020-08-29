@@ -214,16 +214,16 @@ button:hover{
  
     button{
                 
-                background-color: orangered;
+                background-color: #f0ad4e;
                 animation-name: example;
                 animation-duration: 4s;
     }
   
     @keyframes example {
-        0%   {background-color: coral;}
-        25%  {background-color: blue;}
-        50%  {background-color: whitesmoke;}
-        100% {background-color: gold;}
+        0%   {background-color: #f0ad4e;}
+        25%  {background-color: #5bc0de;}
+        50%  {background-color: #64ea8d;}
+        100% {background-color: #14376d;}
       }
   
   .form{
