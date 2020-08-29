@@ -36,6 +36,7 @@
 </div>
 </div>
         </header>
+	<div>
 		<center>
 		<h2>Enter your details</h2>
 		<form action="donate1.php" method="post" accept-charset="utf-8">
@@ -56,6 +57,7 @@
 		</div>
 		</form>
 		</center>
+	</div>
 		</body>
 		</html>
 		
