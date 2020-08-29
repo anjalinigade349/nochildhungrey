@@ -36,7 +36,7 @@
 </div>
 </div>
         </header>
-	<div>
+	<div class="table">
 		<center>
 		<h2>Enter your details</h2>
 		<form action="donate1.php" method="post" accept-charset="utf-8">
@@ -53,7 +53,7 @@
 		<input type="number" name="amount" class="form-control" placeholder="donation amount" required>
 		</div>
 		<div class="form">
-		<input type="submit" name="submit" class="bt1" value="Donate!" required>
+		<input type="submit" name="submit" class="bt2" value="Donate!" required>
 		</div>
 		</form>
 		</center>
