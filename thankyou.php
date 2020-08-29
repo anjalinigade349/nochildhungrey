@@ -26,7 +26,7 @@
       <div class="navbar">
 
 <div  class="topnav" id="myTopnav">
-<a href="#" class="toph1">NO CHILD | HUNGREY</a>
+<a href="#" class="toph1">NO CHILD | HUNGRY</a>
   <a href="index.php" class="active">GO TO WEBSITE</a>
  
   </a>
@@ -38,7 +38,7 @@
         <div class="container text-center  headerset">
 		<h3>payment successful</h3>
             <h2>
-            <span class="w3-tag"> NO-ONE WILL SLEEP HUNGREY</span>
+            <span class="w3-tag"> NO-ONE WILL SLEEP HUNGRY</span>
             </h2>
             <h1>THANK YOU FOR <br>DONATING!!</h1>
   
