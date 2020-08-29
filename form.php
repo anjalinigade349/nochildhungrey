@@ -21,21 +21,22 @@
 </head>
 <body>
    
-      <header>     
+  <header>     
             
-      <div class="navbar">
+     <nav class="navbar navbar-expand-md navbar-light  fixed-top">
+<a class="navbar-brand text-bold text-warning">NO CHILD | HUNGRY</a>
+<button type="button" class="navbar-toggler bg-light" data-toggle="collapse" data-target="#nav">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse justify-content-between" id="nav">
+<ul class="navbar-nav">
+<li class="nav-item" >
+<a class="nav-link text-light font-weight-bold px-3" href="index.php">HOME</a>
+</li>
 
-<div  class="topnav" id="myTopnav">
-<a href="#" class="toph1">NO CHILD | HUNGREY</a>
-  <a href="index.php" class="active">Home</a>
- 
-  
-  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-    <i class="fa fa-bars"></i>
-  </a>
+</ul>
 </div>
-</div>
-        </header>
+</nav>
 	<div class="table">
 		<center>
 		<h2>Enter your details</h2>
