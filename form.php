@@ -37,6 +37,7 @@
 </ul>
 </div>
 </nav>
+	</header>
 	<div class="table">
 		<center>
 		<h2>Enter your details</h2>
