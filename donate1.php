@@ -18,7 +18,7 @@
         "phone" => $phone,
         "send_sms" => true,
 		"allow repeated payment"=>false,
-        "redirect_url" => "http://heroku.com/thankyou.php"
+        "redirect_url" => "https://nochildhungrey.herokuapp.com/form.php"
         //"webhook" =>
         ));
         //print_r($response);
