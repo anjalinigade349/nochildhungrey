@@ -21,7 +21,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-  <nav class="navbar navbar-expand-md navbar-light  fixed-top">
+  
+    <header>     
+            
+     <nav class="navbar navbar-expand-md navbar-light  fixed-top">
 
 <a class="navbar-brand text-warning">NO CHILD | HUNGRY</a>
 
@@ -60,7 +63,7 @@
 </div>
 
 </nav>
-	<div class="front">
+<div class=" container front">
         <main id="home">
         <div class="container text-center  headerset">
             <h2>
@@ -73,7 +76,8 @@
            
         </div>
         </main>
-	</div>
+		</div>
+    
     <div id="about">
 
 <section class="conatiner ourservices text-center">
