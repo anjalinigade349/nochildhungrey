@@ -5,8 +5,20 @@
 	top:0;
 	left:0;
 }
-
-
+body
+{
+ font-family:verdana;
+}
+.front
+{
+ padding-top:40px;
+}
+#donate
+{
+	background-color:cyan;
+	margin-top:40px;
+	font-weight:500;
+}
 .navbar{
 	
 background-color:#3B5998;
@@ -26,7 +38,8 @@ font-weight:500;
 }
 
 .headerset {
-	padding-top:70px;
+	padding-top:50px;
+margin:30px;
 }
 .lastheading{
 	background-color:#3B5998;
@@ -73,14 +86,15 @@ color:white;
 .bt1{
     width:200px;
     font-size:25px;
-    font-weight: 200;
+    font-weight: 500;
     height:auto;
-    padding:20px;
+backgroud-color:cyan;
+    padding-top:30px;
     border:1px solid white;
     border-radius:25px;
 }
 .bt2{
-	background-color:blue;
+	background-color:cyan;
 	color:white;
 	width:
 	border-radius:25px;
@@ -90,6 +104,10 @@ color:white;
 .table{
 	margin-top:30px;
 	padding:20px;
+}
+button{
+background-color:cyan;
+padding-top:50px;
 }
 button:hover{
     font-size:20px;
@@ -137,6 +155,7 @@ button:hover{
 .w3-tag{
     color:orange;
     font-size:40px;
+margin-bottom:50px;
     
 }
 .fa {
@@ -171,16 +190,16 @@ button:hover{
  
     button{
                 
-                background-color: #f0ad4e;
+                background-color: cyan;
                 animation-name: example;
-                animation-duration: 4s;
+                animation-duration: 5s;
     }
   
     @keyframes example {
         0%   {background-color: #f0ad4e;}
         25%  {background-color: #5bc0de;}
         50%  {background-color: #f2dc5d;}
-        100% {background-color: #a4031f;}
+        100% {background-color: #ffae42;}
       }
   
   .form{
