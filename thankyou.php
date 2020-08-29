@@ -23,16 +23,20 @@
    
        <header>     
             
-      <div class="navbar">
-
-<div  class="topnav" id="myTopnav">
-<a href="#" class="toph1">NO CHILD | HUNGRY</a>
-  <a href="index.php" class="active">GO TO WEBSITE</a>
- 
-  </a>
+     <nav class="navbar navbar-expand-md navbar-light  fixed-top">
+<a class="navbar-brand text-bold text-warning">NO CHILD | HUNGRY</a>
+<button type="button" class="navbar-toggler bg-light" data-toggle="collapse" data-target="#nav">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse justify-content-between" id="nav">
+<ul class="navbar-nav">
+<li class="nav-item" >
+<a class="nav-link text-light font-weight-bold px-3" href="index.php">Go to website</a>
+</li>
+</ul>
 </div>
-</div>
-        </header>
+</nav>
+	</header>
         <main id="home">
        
         <div class="container text-center  headerset">
