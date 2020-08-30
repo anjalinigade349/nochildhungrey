@@ -223,11 +223,17 @@ margin-bottom:50px;
 	{
 		font-size:25px;
   }
+	#about h1{
+		font-size:20px;
+	}
+	#about h2{
+		font-size:20px;
+	}
 	.abth1{
-		font-size:22px;
+		font-size:20px;
 	}
 	.abth2{
-		font-size:22px;
+		font-size:20px;
 	}
 	.para
 	{
@@ -251,11 +257,17 @@ margin-bottom:50px;
 	{
 		font-size:25px;
   }
+	#about h1{
+		font-size:20px;
+	}
+	#about h2{
+		font-size:20px;
+	}
 	.abth1{
-		font-size:22px;
+		font-size:20px;
 	}
 	.abth2{
-		font-size:22px;
+		font-size:20px;
 	}
 	.para
 	{
@@ -277,8 +289,17 @@ margin-bottom:50px;
     .headerset h2{
         font-size:22px;
     }
+	#about h1{
+		font-size:20px;
+	}
+	#about h2{
+		font-size:20px;
+	}
 	.abth1{
-		font-size:22px;
+		font-size:20px;
+	}
+	.abth2{
+		font-size:20px;
 	}
 	.para
 	{
@@ -315,6 +336,18 @@ margin-bottom:50px;
         font-size:22px;
         font-weight:bold;
     }
+	#about h1{
+		font-size:20px;
+	}
+	#about h2{
+		font-size:20px;
+	}
+	.abth1{
+		font-size:20px;
+	}
+	.abth2{
+		font-size:20px;
+	}
 	.para
 	{
 		font-size:18px;
@@ -347,8 +380,17 @@ margin-bottom:50px;
         font-size:22px;
         font-weight:bold;
     }
-	#about{
-		font-size:25px;
+	#about h1{
+		font-size:20px;
+	}
+	#about h2{
+		font-size:20px;
+	}
+	.abth1{
+		font-size:20px;
+	}
+	.abth2{
+		font-size:20px;
 	}
 
 }
@@ -365,8 +407,17 @@ margin-bottom:50px;
         font-size:32px;
         font-weight:bold;
     }
-	#about{
-		font-size:25px;
+	#about h1{
+		font-size:20px;
+	}
+	#about h2{
+		font-size:20px;
+	}
+	.abth1{
+		font-size:20px;
+	}
+	.abth2{
+		font-size:20px;
 	}
     
     .bt1{
