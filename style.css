@@ -223,9 +223,9 @@ margin-bottom:50px;
 
 /*for responsiveness*/
 @media screen and (max-width: 600px) {
-  .w3-tag
+ .w3-tag
 	{
-		font-size:25px;
+		font-size:20px;
   }
 	#about h1{
 		font-size:20px;
@@ -259,7 +259,7 @@ margin-bottom:50px;
 @media screen and (max-width: 600px) {
   .w3-tag
 	{
-		font-size:25px;
+		font-size:20px;
   }
 	#about h1{
 		font-size:20px;
@@ -293,6 +293,10 @@ margin-bottom:50px;
     .headerset h2{
         font-size:22px;
     }
+	.w3-tag
+	{
+		font-size:20px;
+  }
 	#about h1{
 		font-size:20px;
 	}
@@ -336,6 +340,10 @@ margin-bottom:50px;
     .headerset h2{
         font-size:12px;
     }
+	.w3-tag
+	{
+		font-size:20px;
+  }
     .headerset h1{
         font-size:22px;
         font-weight:bold;
@@ -380,6 +388,10 @@ margin-bottom:50px;
     .headerset h2{
         font-size:12px;
     }
+	.w3-tag
+	{
+		font-size:20px;
+  }
     .headerset h1{
         font-size:22px;
         font-weight:bold;
@@ -407,6 +419,10 @@ margin-bottom:50px;
     .headerset h2{
         font-size:22px;
     }
+	.w3-tag
+	{
+		font-size:20px;
+  }
     .headerset h1{
         font-size:32px;
         font-weight:bold;
