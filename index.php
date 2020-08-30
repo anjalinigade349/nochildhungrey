@@ -81,14 +81,14 @@
     <div id="about">
 
 <section class="conatiner ourservices text-center">
-    <h1>ABOUT-US</h1>
+    <h1 class="abth1">ABOUT-US</h1>
     <p class="para">We are a non -profit organisation working continuously to provide good quality food to needed people .</p>
 
             <p class="para">Our community collects donation and use it for the betterment of these process of providing good quality food to them who are unable
                 to manage food for them and their family.
             </p>
     
-            <h2> | Our Mission |</h2>
+            <h2 class="abth2"> | Our Mission |</h2>
             <p class="para1">Our main motive is to provide good quality and nutrious food to the needed people . and we are working continuously
                 to achieve our goals.
             </p>
