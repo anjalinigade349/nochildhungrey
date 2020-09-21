@@ -5,7 +5,7 @@
   $amount= $_POST['amount'];
 
   include 'instamojo/Instamojo.php';
-  $api = new Instamojo\Instamojo('', '',
+  $api = new Instamojo\Instamojo('test_b0cc495920312110ec464000599', 'test_5d97d8fc233388660b7ebf851c3',
   'https://test.instamojo.com/api/1.1/');
 
   try {
